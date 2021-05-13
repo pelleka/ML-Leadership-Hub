@@ -22,7 +22,7 @@
 <tr>
 <td><b>Access for Leads</b></td>
 <td><ul>1. Guru Card Collections</ul><ul>2. Slack Channels</ul><ul>3. Leads Email list</ul><ul>4. Zendesk Role change</ul></td>
-<td><ul>1. Reach out on <b style="color:blue;">#help-guru-tool</b> to request access to the Team Lead Guru Card collections.</ul><ul>2. Reach out to fellow leads or your SL to gain access to TL channels.</ul><ul>3. Once your role changes in workday, you will automatically be added to the TL email lists.</ul><ul>4. Reach out to <b style="color:blue;">#help-it</b> to request a role change for Zendesk.</ul></td>
+<td><ul>1. Reach out on <b style="color:blue;">#help-guru-tool</b> to request access to the Team Lead Guru Card collections and Multilingual Leads group.</ul><ul>2. Reach out to fellow leads or your SL to gain access to TL channels.</ul><ul>3. Once your role changes in Workday, you will automatically be added to the Team Lead email lists, which will you give you access to all the Multilingual Calendar groups and to the current Multilingual Team Lead docs.</ul><ul>4. Reach out to <b style="color:blue;">#help-it</b> to request a role change for Zendesk.</ul></td>
 </tr>
 
 <tr>
@@ -33,9 +33,16 @@
 
 <tr>
 <td><b>Calendar</b></td>
-<td>Start building up your calendar and recurring meetings like: Jump, TTs, 1t1ts with your direct reports.</td>
-<td>Check other Leads Calendar for ideas on how to best organise your time.
-<a href="https://support.google.com/a/users/answer/9302892?hl=en" target="_blank">Google Help Center - What can you do with Calendar?</a> </td>
+<td><ul><li>Start building up your calendar and recurring meetings like: Jump, Team Times, 1:1ts with your direct reports.</li></ul>
+❋ Add to your calendar any existing Team Lead Calendars:
+<ul><li><a href="https://calendar.google.com/calendar/u/0?cid=c2hvcGlmeS5jb21fajB2NnBvNmo1Yjk3bjc3cmdvMWpoajNqdjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Lead Vacation - Ireland Advisor Leads</a></li></ul>
+<ul><li><a href="https://calendar.google.com/calendar/u/0?cid=Y18wM3VlYm1sNGNiYjR1bjVtcHZmcDBkNXFtNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">ML Email Shadowing</a></li></ul>
+<ul><li><a href="https://calendar.google.com/calendar/u/0?cid=Y19nODhiczdwMHY2bGlqbGc1M2lsOWF0a2lqZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">ML Leads Vacation</a></li></ul>
+<ul><li><a href="https://calendar.google.com/calendar/u/0?cid=Y180NHJjaDg3dXMzNWM1aGtiOWk3cWdoa2I3Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Showcase your skills</a></li></ul>
+</td>
+<td><ul><li>Check other Leads Calendar for ideas on how to best organise your time.</li></ul>
+<ul><li>
+<a href="https://support.google.com/a/users/answer/9302892?hl=en" target="_blank">Google Help Center - What can you do with Calendar?</a></li></ul></td>
 </tr>
 
 <tr>
@@ -113,7 +120,7 @@
 <tr>
 <td><b>Airtable</b></td>
 <td><ul>1. <a href="https://airtable.com/shr1EGUDPyHoWrju8/tblmjemt3Sre85gY8?blocks=hide" target="_blank">All hires start time</a></ul><ul>2. <a href="https://airtable.com/shrYvcT4zKQU9t6WK/tblmjemt3Sre85gY8?blocks=hide" target="_blank">ML hires start time</a></ul><ul>3. <a href="https://airtable.com/shrNSB5y02a8jGInF" target="_blank">Training Notes on new direct reports</a></ul></td>
-<td><ul>1. <b style="color:blue;">Password: </b>87ovoidpigmenTs</ul><ul>2. <b style="color:blue;">Password: </b>Eleven2</ul><ul>3. <b style="color:blue;">Password: </b>hfgs75bd8</ul></td>
+<td><ul>1. <b style="color:blue;">Password: </b>87ovoidpigmenTs</ul><ul>2. <b style="color:blue;">Password: </b>Eleven2</ul><ul>3. <a href="https://app.getguru.com/card/czkgdLGi/Mentoring-for-Team-Leads-Mentor-Feedback" target="_blank">Mentoring-for-Team-Leads-Mentor-Feedback</a></ul></td>
 </tr>
 
 <tr>
@@ -154,7 +161,7 @@
 
 <tr>
 <td><b>Mode Reports</b></td>
-<td><ul>1.<a href="https://data.shopify.com/reports/language-care-agent-performance" target="_blank">Language Care - Agent Performance</a></ul><ul>2.<a href="https://data.shopify.com/reports/agent-performance" target="_blank">Guru Performance</a></ul><ul>3.<a href="https://data.shopify.com/reports/language-care-overview" target="_blank">Language Care Overview</a></ul><ul>4.<a href="https://data.shopify.com/reports/support-country-overview/runs/49dd41971b3c" target="_blank">Support Country Overview</a></ul><ul>5.<a href="https://app.mode.com/shopify/reports/27ba35bcd506" target="_blank">About tags by language queue | Mode</a></ul><ul>6.<a href="https://data.shopify.com/reports/merchant-frustrations-by-country-and-component" target="_blank">Merchant Frustrations by country and component</a></ul><ul>7.<a href="https://artifact.shopify.io/" target="_blank">Artifact - reports directory</a></ul><ul>If any of the above reports do not work for you, it might be because they have changed location. Use <a href="https://artifact.shopify.io/" target="_blank">Artifact</a> to search for the report with the title mentioned here.</ul></td>
+<td><ul>1. <a href="https://data.shopify.com/reports/language-care-agent-performance" target="_blank">Language Care - Agent Performance</a></ul><ul>2. <a href="https://data.shopify.com/reports/agent-performance" target="_blank">Guru Performance</a></ul><ul>3. <a href="https://data.shopify.com/reports/language-care-overview" target="_blank">Language Care Overview</a></ul><ul>4. <a href="https://data.shopify.com/reports/support-country-overview/runs/49dd41971b3c" target="_blank">Support Country Overview</a></ul><ul>5. <a href="https://app.mode.com/shopify/reports/27ba35bcd506" target="_blank">About tags by language queue | Mode</a></ul><ul>6. <a href="https://data.shopify.com/reports/merchant-frustrations-by-country-and-component" target="_blank">Merchant Frustrations by country and component</a></ul><ul>7. <a href="https://artifact.shopify.io/" target="_blank">Artifact - reports directory</a></ul><ul>If any of the above reports do not work for you, it might be because they have changed location. Use <a href="https://artifact.shopify.io/" target="_blank">Artifact</a> to search for the report with the title mentioned here.</ul></td>
 <td><ul>1. This report helps you see average performance and smiley per teams/groups</ul><ul>2. This report helps you see details about smileys and tickets feedback.</ul><ul>3. Overview of LC tickets per group, SLO%, Smiley %, Interactions count & First Response timing.</ul><ul>4. The data below looks at Ticket and Interaction tables and Support's Shop information to examine information relating to interactions requested by Merchants on a Location Specific Basis and responded to by All Teams. </ul><ul>5. Review top 15 About tags and topic count by language group. </ul><ul>6. Select a country code and/or component to see Merchant Frustrations and the number of tickets escalated.</ul><ul>7. Artifact is a dataset discovery tool built to centralize and surface contextual metadata for all of Shopify’s datasets, and the relationships between them.</ul></td>
 </tr>
 </tbody>
